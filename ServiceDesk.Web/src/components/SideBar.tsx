@@ -8,9 +8,6 @@ import { FiUsers } from "react-icons/fi";
 const SideBar = () => {
   return (
     <div
-      teraz
-      sie
-      uda
       className="d-flex flex-column flex-shrink-0 p-3 text-bg-dark"
       style={{ width: "280px", height: "100vh" }}
     >
